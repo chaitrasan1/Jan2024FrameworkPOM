@@ -1,0 +1,6 @@
+com\salesforce\base\SFDCBaseTest.class
+com\salesforce\base\SFDCBasePage.class
+com\tekarch\firebase\utilities\ExtentReportsUtility.class
+com\tekarch\firebase\pages\home\HomePage.class
+com\tekarch\firebase\pages\base\BasePage.class
+com\salesforce\automationtests\SFDCLoginAutomationScripts.class

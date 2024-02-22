@@ -1,0 +1,1000 @@
+20240213 09:10:07 INFO  [main] base.BaseTest BaseTest.java32 - browser instance chrome created
+20240213 09:10:07 INFO  [main] base.BaseTest BaseTest.java35 - window is maximized
+20240213 09:22:13 INFO  [main] base.BaseFirebase BaseFirebase.java21 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240213 09:22:14 INFO  [main] base.BaseTest BaseTest.java32 - browser instance chrome created
+20240213 09:22:14 INFO  [main] base.BaseTest BaseTest.java35 - window is maximized
+20240213 09:24:50 INFO  [main] base.BaseFirebase BaseFirebase.java21 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240213 09:24:51 INFO  [main] base.BaseTest BaseTest.java32 - browser instance chrome created.
+20240213 09:24:51 INFO  [main] base.BaseTest BaseTest.java34 - window is maximized
+20240213 10:11:54 INFO  [main] base.BaseFirebase BaseFirebase.java21 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240213 10:11:56 INFO  [main] base.BaseTest BaseTest.java32 - browser instance chrome created
+20240213 10:11:57 INFO  [main] base.BaseTest BaseTest.java35 - window is maximized
+20240213 10:16:36 INFO  [main] base.BaseFirebase BaseFirebase.java21 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240213 10:16:37 INFO  [main] base.BaseTest BaseTest.java32 - browser instance chrome created
+20240213 10:16:37 INFO  [main] base.BaseTest BaseTest.java35 - window is maximized
+20240213 10:17:17 INFO  [main] base.BaseFirebase BaseFirebase.java21 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240213 10:17:19 INFO  [main] base.BaseTest BaseTest.java32 - browser instance chrome created
+20240213 10:17:19 INFO  [main] base.BaseTest BaseTest.java35 - window is maximized
+20240213 10:18:24 INFO  [main] base.BaseFirebase BaseFirebase.java21 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240213 10:18:25 INFO  [main] base.BaseTest BaseTest.java32 - browser instance chrome created
+20240213 10:18:25 INFO  [main] base.BaseTest BaseTest.java35 - window is maximized
+20240213 10:21:15 INFO  [main] base.BaseFirebase BaseFirebase.java21 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240213 10:21:17 INFO  [main] base.BaseTest BaseTest.java32 - browser instance chrome created
+20240213 10:21:17 INFO  [main] base.BaseTest BaseTest.java35 - window is maximized
+20240213 10:22:57 INFO  [main] base.BaseFirebase BaseFirebase.java21 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240213 10:22:59 INFO  [main] base.BaseTest BaseTest.java32 - browser instance chrome created
+20240213 10:22:59 INFO  [main] base.BaseTest BaseTest.java35 - window is maximized
+20240213 10:24:29 INFO  [main] base.BaseFirebase BaseFirebase.java21 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240213 10:24:31 INFO  [main] base.BaseTest BaseTest.java32 - browser instance chrome created
+20240213 10:24:31 INFO  [main] base.BaseTest BaseTest.java35 - window is maximized
+20240213 10:27:10 INFO  [main] base.BaseFirebase BaseFirebase.java21 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240213 10:27:12 INFO  [main] base.BaseTest BaseTest.java32 - browser instance chrome created
+20240213 10:27:12 INFO  [main] base.BaseTest BaseTest.java35 - window is maximized
+20240213 10:28:25 INFO  [main] base.BaseFirebase BaseFirebase.java21 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240213 10:28:27 INFO  [main] base.BaseTest BaseTest.java32 - browser instance chrome created
+20240213 10:28:27 INFO  [main] base.BaseTest BaseTest.java35 - window is maximized
+20240213 10:33:38 INFO  [main] base.BaseFirebase BaseFirebase.java21 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240213 10:33:40 INFO  [main] base.BaseTest BaseTest.java32 - browser instance chrome created
+20240213 10:33:40 INFO  [main] base.BaseTest BaseTest.java35 - window is maximized
+20240213 10:33:40 INFO  [main] base.BaseTest BaseTest.java71 - "https://qa-tekarch.firebaseapp.com/"is entered
+20240213 10:33:40 INFO  [main] automationtests.AutomationScripts AutomationScripts.java48 - ..............stated  AutoCompleteTest...............
+20240213 10:33:46 INFO  [main] base.BaseTest BaseTest.java79 - username data is entered in username textbox
+20240213 10:33:46 INFO  [main] base.BaseTest BaseTest.java79 - username data is entered in password textbox
+20240213 10:33:46 INFO  [main] base.BaseTest BaseTest.java88 - loginbuttonbutton is clicked
+20240213 10:33:46 INFO  [main] base.BaseTest BaseTest.java104 - browser instance closed
+20240213 10:33:46 INFO  [main] base.BaseFirebase BaseFirebase.java31 - ******tearDownAfterTestMethod executed***********
+20240213 10:33:46 INFO  [main] base.BaseFirebase BaseFirebase.java21 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240213 10:33:47 INFO  [main] base.BaseTest BaseTest.java32 - browser instance chrome created
+20240213 10:33:47 INFO  [main] base.BaseTest BaseTest.java35 - window is maximized
+20240213 10:33:47 INFO  [main] base.BaseTest BaseTest.java71 - "https://qa-tekarch.firebaseapp.com/"is entered
+20240213 10:33:53 INFO  [main] base.BaseTest BaseTest.java79 - username data is entered in username textbox
+20240213 10:33:53 INFO  [main] base.BaseTest BaseTest.java79 - username data is entered in password textbox
+20240213 10:33:53 INFO  [main] base.BaseTest BaseTest.java88 - loginbuttonbutton is clicked
+20240213 10:35:41 INFO  [main] base.BaseFirebase BaseFirebase.java21 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240213 10:35:43 INFO  [main] base.BaseTest BaseTest.java32 - browser instance chrome created
+20240213 10:35:43 INFO  [main] base.BaseTest BaseTest.java35 - window is maximized
+20240213 10:35:43 INFO  [main] base.BaseTest BaseTest.java71 - "https://qa-tekarch.firebaseapp.com/"is entered
+20240213 10:35:44 INFO  [main] automationtests.AutomationScripts AutomationScripts.java48 - ..............stated  AutoCompleteTest...............
+20240213 10:35:49 INFO  [main] base.BaseTest BaseTest.java79 - username data is entered in username textbox
+20240213 10:35:49 INFO  [main] base.BaseTest BaseTest.java79 - username data is entered in password textbox
+20240213 10:35:49 INFO  [main] base.BaseTest BaseTest.java88 - loginbuttonbutton is clicked
+20240213 10:35:49 INFO  [main] base.BaseTest BaseTest.java104 - browser instance closed
+20240213 10:35:49 INFO  [main] base.BaseFirebase BaseFirebase.java31 - ******tearDownAfterTestMethod executed***********
+20240213 10:35:49 INFO  [main] base.BaseFirebase BaseFirebase.java21 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240213 10:35:50 INFO  [main] base.BaseTest BaseTest.java32 - browser instance chrome created
+20240213 10:35:50 INFO  [main] base.BaseTest BaseTest.java35 - window is maximized
+20240213 10:35:50 INFO  [main] base.BaseTest BaseTest.java71 - "https://qa-tekarch.firebaseapp.com/"is entered
+20240213 10:35:56 INFO  [main] base.BaseTest BaseTest.java79 - username data is entered in username textbox
+20240213 10:35:56 INFO  [main] base.BaseTest BaseTest.java79 - username data is entered in password textbox
+20240213 10:35:56 INFO  [main] base.BaseTest BaseTest.java88 - loginbuttonbutton is clicked
+20240213 15:59:24 INFO  [main] base.BaseFirebase BaseFirebase.java21 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240213 15:59:25 INFO  [main] base.BaseTest BaseTest.java32 - browser instance chrome created
+20240213 15:59:25 INFO  [main] base.BaseTest BaseTest.java35 - window is maximized
+20240213 15:59:26 INFO  [main] base.BaseTest BaseTest.java71 - "https://qa-tekarch.firebaseapp.com/"is entered
+20240213 15:59:26 INFO  [main] automationtests.AutomationScripts AutomationScripts.java48 - ..............stated  AutoCompleteTest...............
+20240213 15:59:31 INFO  [main] base.BaseTest BaseTest.java79 - username data is entered in username textbox
+20240213 15:59:31 INFO  [main] base.BaseTest BaseTest.java79 - username data is entered in password textbox
+20240213 15:59:31 INFO  [main] base.BaseTest BaseTest.java88 - loginbuttonbutton is clicked
+20240213 16:21:58 INFO  [main] base.BaseFirebase BaseFirebase.java21 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240213 16:21:59 INFO  [main] base.BaseTest BaseTest.java32 - browser instance chrome created
+20240213 16:21:59 INFO  [main] base.BaseTest BaseTest.java35 - window is maximized
+20240213 16:21:59 INFO  [main] base.BaseTest BaseTest.java71 - "https://qa-tekarch.firebaseapp.com/"is entered
+20240213 16:22:04 INFO  [main] base.BaseTest BaseTest.java79 - username data is entered in username textbox
+20240213 16:22:04 INFO  [main] base.BaseTest BaseTest.java79 - username data is entered in password textbox
+20240213 16:22:05 INFO  [main] base.BaseTest BaseTest.java88 - loginbuttonbutton is clicked
+20240213 16:23:41 INFO  [main] base.BaseFirebase BaseFirebase.java21 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240213 16:23:42 INFO  [main] base.BaseTest BaseTest.java32 - browser instance chrome created
+20240213 16:23:42 INFO  [main] base.BaseTest BaseTest.java35 - window is maximized
+20240213 16:23:42 INFO  [main] base.BaseTest BaseTest.java71 - "https://qa-tekarch.firebaseapp.com/"is entered
+20240213 16:23:48 INFO  [main] base.BaseTest BaseTest.java79 - username data is entered in username textbox
+20240213 16:23:48 INFO  [main] base.BaseTest BaseTest.java104 - browser instance closed
+20240213 16:23:48 INFO  [main] base.BaseFirebase BaseFirebase.java31 - ******tearDownAfterTestMethod executed***********
+20240213 16:30:04 INFO  [main] base.BaseFirebase BaseFirebase.java21 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240213 16:30:05 INFO  [main] base.BaseTest BaseTest.java32 - browser instance chrome created
+20240213 16:30:05 INFO  [main] base.BaseTest BaseTest.java35 - window is maximized
+20240213 16:30:06 INFO  [main] base.BaseTest BaseTest.java71 - "https://qa-tekarch.firebaseapp.com/"is entered
+20240213 16:30:11 INFO  [main] base.BaseTest BaseTest.java79 - username data is entered in username textbox
+20240213 16:30:11 INFO  [main] base.BaseTest BaseTest.java79 - username data is entered in password textbox
+20240213 16:30:11 INFO  [main] base.BaseTest BaseTest.java88 - loginbuttonbutton is clicked
+20240214 18:25:56 INFO  [main] base.BaseTest BaseTest.java39 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240214 18:25:59 INFO  [main] base.BaseTest BaseTest.java58 - browser instance chrome created
+20240214 18:25:59 INFO  [main] base.BaseTest BaseTest.java61 - window is maximized
+20240214 18:26:00 INFO  [main] base.BaseTest BaseTest.java97 - "https://qa-tekarch.firebaseapp.com/"is entered
+20240214 18:26:05 INFO  [main] base.BaseTest BaseTest.java130 - browser instance closed
+20240214 18:26:05 INFO  [main] base.BaseTest BaseTest.java49 - ******tearDownAfterTestMethod executed***********
+20240214 18:29:20 INFO  [main] base.BaseTest BaseTest.java39 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240214 18:29:22 INFO  [main] base.BaseTest BaseTest.java58 - browser instance chrome created
+20240214 18:29:22 INFO  [main] base.BaseTest BaseTest.java61 - window is maximized
+20240214 18:29:23 INFO  [main] base.BaseTest BaseTest.java97 - "https://qa-tekarch.firebaseapp.com/"is entered
+20240214 18:29:28 INFO  [main] base.BaseTest BaseTest.java130 - browser instance closed
+20240214 18:29:28 INFO  [main] base.BaseTest BaseTest.java49 - ******tearDownAfterTestMethod executed***********
+20240215 21:19:16 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java32 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240215 21:19:19 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - browser instance chrome created
+20240215 21:19:19 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java54 - window is maximized
+20240215 21:19:20 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java90 - https://login.salesforce.com/is entered
+20240215 21:19:20 INFO  [main] automationtests.AutomationScripts AutomationScripts.java18 - ******login_to_firebase automation script started***********
+20240215 21:19:20 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java96 - browser instance closed
+20240215 21:19:20 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java42 - ******tearDownAfterTestMethod executed***********
+20240215 21:23:12 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java32 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240215 21:23:14 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - browser instance chrome created
+20240215 21:23:14 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java54 - window is maximized
+20240215 21:23:14 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java90 - https://login.salesforce.com/is entered
+20240215 21:23:14 INFO  [main] automationtests.AutomationScripts AutomationScripts.java18 - ******login_to_firebase automation script started***********
+20240215 21:23:15 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java96 - browser instance closed
+20240215 21:23:15 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java42 - ******tearDownAfterTestMethod executed***********
+20240215 21:35:07 INFO  [main] base.BaseTest BaseTest.java39 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240215 21:35:08 INFO  [main] base.BaseTest BaseTest.java58 - browser instance chrome created
+20240215 21:35:08 INFO  [main] base.BaseTest BaseTest.java61 - window is maximized
+20240215 21:35:09 INFO  [main] base.BaseTest BaseTest.java97 - https://qa-tekarch.firebaseapp.com/is entered
+20240215 21:35:09 INFO  [main] base.BaseTest BaseTest.java130 - browser instance closed
+20240215 21:35:09 INFO  [main] base.BaseTest BaseTest.java49 - ******tearDownAfterTestMethod executed***********
+20240215 21:37:12 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java59 - ...........test excecution started.........
+20240215 21:37:12 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java33 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240215 21:37:14 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java52 - browser instance chrome created
+20240215 21:37:14 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java55 - window is maximized
+20240215 21:37:14 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java91 - https://login.salesforce.com/is entered
+20240215 21:37:14 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java17 - succesLogin......test execution started.....
+20240215 21:37:14 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java35 - .....test excecution failed.....
+20240215 21:37:15 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java97 - browser instance closed
+20240215 21:37:15 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java43 - ******tearDownAfterTestMethod executed***********
+20240215 21:37:15 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java64 - ......test excecution ended........
+20240215 21:41:56 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java59 - ...........test excecution started.........
+20240215 21:41:56 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java33 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240215 21:41:58 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java52 - browser instance chrome created
+20240215 21:41:58 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java55 - window is maximized
+20240215 21:41:59 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java91 - https://login.salesforce.com/is entered
+20240215 21:41:59 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java17 - succesLogin......test execution started.....
+20240215 21:41:59 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java35 - .....test excecution failed.....
+20240215 21:41:59 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java97 - browser instance closed
+20240215 21:41:59 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java43 - ******tearDownAfterTestMethod executed***********
+20240215 21:41:59 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java64 - ......test excecution ended........
+20240215 21:47:48 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java60 - ...........test excecution started.........
+20240215 21:47:48 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java33 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240215 21:47:49 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java52 - browser instance chrome created
+20240215 21:47:50 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java55 - window is maximized
+20240215 21:47:50 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java91 - https://login.salesforce.com/is entered
+20240215 21:47:50 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java18 - succesLogin......test execution started.....
+20240215 21:47:50 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java36 - .....test excecution failed.....
+20240215 21:47:50 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java97 - browser instance closed
+20240215 21:47:50 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java43 - ******tearDownAfterTestMethod executed***********
+20240215 21:47:50 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java65 - ......test excecution ended........
+20240215 21:55:22 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java60 - ...........test excecution started.........
+20240215 21:55:22 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java33 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240215 21:55:24 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java52 - browser instance chrome created
+20240215 21:55:24 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java55 - window is maximized
+20240215 21:55:26 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java91 - https://login.salesforce.com/is entered
+20240215 21:55:26 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java18 - succesLogin......test execution started.....
+20240215 21:55:26 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java36 - .....test excecution failed.....
+20240215 21:55:26 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java97 - browser instance closed
+20240215 21:55:26 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java43 - ******tearDownAfterTestMethod executed***********
+20240215 21:55:26 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java65 - ......test excecution ended........
+20240215 22:49:29 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java60 - ...........test excecution started.........
+20240215 22:49:29 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java33 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240215 22:49:31 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java52 - browser instance chrome created
+20240215 22:49:31 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java55 - window is maximized
+20240215 22:49:32 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java91 - https://login.salesforce.com/is entered
+20240215 22:49:32 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java18 - succesLogin......test execution started.....
+20240215 22:49:32 INFO  [main] automationtests.AutomationScripts AutomationScripts.java18 - ******login_to_firebase automation script started***********
+20240215 22:49:33 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240215 22:49:33 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240215 22:49:39 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240215 22:49:39 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java25 - ........test excecution completed with success
+20240215 22:49:39 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java36 - .....test excecution failed.....
+20240215 22:49:40 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java66 - ......test excecution ended........
+20240215 23:00:22 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java62 - ...........test excecution started.........
+20240215 23:00:22 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java33 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240215 23:00:23 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java52 - browser instance chrome created
+20240215 23:00:24 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java55 - window is maximized
+20240215 23:00:24 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java91 - https://login.salesforce.com/is entered
+20240215 23:00:24 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java20 - succesLogin......test execution started.....
+20240215 23:00:24 INFO  [main] automationtests.AutomationScripts AutomationScripts.java18 - ******login_to_firebase automation script started***********
+20240215 23:00:25 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240215 23:00:25 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240215 23:00:31 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240215 23:00:31 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java27 - ........test excecution completed with success
+20240215 23:00:31 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java97 - browser instance closed
+20240215 23:00:31 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java43 - ******tearDownAfterTestMethod executed***********
+20240215 23:00:31 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java68 - ......test excecution ended........
+20240215 23:10:14 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java65 - ...........test excecution started.........
+20240215 23:10:14 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240215 23:10:16 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240215 23:10:16 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240215 23:10:18 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240215 23:10:18 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java22 - succesLogin......test execution started.....
+20240215 23:10:18 INFO  [main] automationtests.AutomationScripts AutomationScripts.java18 - ******login_to_firebase automation script started***********
+20240215 23:10:18 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240215 23:10:18 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240215 23:10:21 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240215 23:10:21 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java29 - ........test excecution completed with success
+20240215 23:10:21 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java41 - .....test excecution failed.....
+20240215 23:10:21 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java71 - ......test excecution ended........
+20240215 23:12:58 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java72 - ...........test excecution started.........
+20240215 23:12:58 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240215 23:13:00 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240215 23:13:00 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240215 23:13:01 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240215 23:13:01 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - succesLogin......test execution started.....
+20240215 23:13:01 INFO  [main] automationtests.AutomationScripts AutomationScripts.java18 - ******login_to_firebase automation script started***********
+20240215 23:13:02 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240215 23:13:02 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240215 23:13:09 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240215 23:13:09 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240215 23:13:09 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java43 - .....test excecution failed.....
+20240215 23:13:09 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java78 - ......test excecution ended........
+20240215 23:17:33 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java73 - ...........test excecution started.........
+20240215 23:17:33 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240215 23:17:34 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240215 23:17:35 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240215 23:17:35 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240215 23:17:35 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - succesLogin......test execution started.....
+20240215 23:17:35 INFO  [main] automationtests.AutomationScripts AutomationScripts.java18 - ******login_to_firebase automation script started***********
+20240215 23:17:36 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240215 23:17:36 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240215 23:17:39 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240215 23:17:39 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240215 23:17:39 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240215 23:17:39 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240215 23:17:39 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java79 - ......test excecution ended........
+20240215 23:20:12 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java73 - ...........test excecution started.........
+20240215 23:20:12 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240215 23:20:13 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240215 23:20:14 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240215 23:20:14 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240215 23:20:14 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - succesLogin......test execution started.....
+20240215 23:20:14 INFO  [main] automationtests.AutomationScripts AutomationScripts.java18 - ******login_to_firebase automation script started***********
+20240215 23:20:15 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240215 23:20:15 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240215 23:20:18 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240215 23:20:18 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240215 23:20:18 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240215 23:20:18 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240215 23:20:18 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java79 - ......test excecution ended........
+20240216 11:10:18 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java73 - ...........test excecution started.........
+20240216 11:10:18 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 11:10:20 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240216 11:10:20 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240216 11:10:21 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240216 11:10:21 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - succesLogin......test execution started.....
+20240216 11:10:21 INFO  [main] automationtests.AutomationScripts AutomationScripts.java18 - ******login_to_firebase automation script started***********
+20240216 11:10:22 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240216 11:10:22 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240216 11:10:27 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240216 11:10:27 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240216 11:10:28 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240216 11:10:28 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240216 11:10:28 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java79 - ......test excecution ended........
+20240217 10:37:53 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java73 - ...........test excecution started.........
+20240217 10:37:53 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 10:38:02 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 10:38:02 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 10:38:03 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 10:38:03 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case1......test execution started.....
+20240217 10:38:03 INFO  [main] automationtests.AutomationScripts AutomationScripts.java34 - ******login_to_firebase automation script started***********
+20240217 10:38:04 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240217 10:38:04 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240217 10:38:04 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java43 - .....test excecution failed.....
+20240217 10:38:05 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 10:38:05 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 10:38:05 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java79 - ......test excecution ended........
+20240217 11:11:41 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java73 - ...........test excecution started.........
+20240217 11:11:41 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 11:11:42 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 11:11:43 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 11:11:43 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 11:11:43 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case1......test execution started.....
+20240217 11:11:43 INFO  [main] automationtests.AutomationScripts AutomationScripts.java34 - ******login_to_firebase automation script started***********
+20240217 11:11:44 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240217 11:11:45 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240217 11:11:45 INFO  [main] base.SFDCBasePage SFDCBasePage.java51 - text is extracted from error
+20240217 11:11:45 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 11:11:45 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 11:11:45 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 11:11:45 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java79 - ......test excecution ended........
+20240217 11:45:25 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java73 - ...........test excecution started.........
+20240217 11:45:25 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 11:45:27 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 11:45:27 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 11:45:28 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 11:45:28 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case1......test execution started.....
+20240217 11:45:28 INFO  [main] automationtests.AutomationScripts AutomationScripts.java34 - ******login_to_firebase automation script started***********
+20240217 11:45:29 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240217 11:45:30 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240217 11:45:30 INFO  [main] base.SFDCBasePage SFDCBasePage.java51 - text is extracted from error
+20240217 11:45:30 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 11:45:30 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 11:45:30 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 11:45:30 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 11:45:31 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 11:45:31 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 11:45:32 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 11:45:32 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - succesLogin......test execution started.....
+20240217 11:45:32 INFO  [main] automationtests.AutomationScripts AutomationScripts.java18 - ******login_to_firebase automation script started***********
+20240217 11:45:33 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240217 11:45:33 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240217 11:45:40 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240217 11:45:40 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 11:45:40 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 11:45:40 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 11:45:41 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java79 - ......test excecution ended........
+20240217 11:51:59 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java73 - ...........test excecution started.........
+20240217 11:51:59 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 11:52:01 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 11:52:02 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 11:52:02 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 11:52:02 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case3......test execution started.....
+20240217 11:52:02 INFO  [main] automationtests.AutomationScripts AutomationScripts.java48 - ******login_to_firebase automation script started***********
+20240217 11:52:03 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240217 11:52:03 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240217 11:52:06 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240217 11:52:06 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 11:52:06 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 11:52:06 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 11:52:06 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java79 - ......test excecution ended........
+20240217 12:39:55 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java73 - ...........test excecution started.........
+20240217 12:39:55 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 12:39:57 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 12:39:57 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 12:39:58 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 12:39:58 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case3......test execution started.....
+20240217 12:39:58 INFO  [main] automationtests.AutomationScripts AutomationScripts.java49 - ******login_to_firebase automation script started***********
+20240217 12:39:59 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240217 12:39:59 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240217 12:40:04 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240217 12:40:04 INFO  [main] base.SFDCBasePage SFDCBasePage.java56 - object is moved userNavButton
+20240217 12:40:04 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java43 - .....test excecution failed.....
+20240217 12:40:04 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 12:40:04 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 12:40:04 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java79 - ......test excecution ended........
+20240217 12:47:21 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java73 - ...........test excecution started.........
+20240217 12:47:22 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 12:47:25 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 12:47:25 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 12:47:26 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 12:47:26 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case3......test execution started.....
+20240217 12:47:26 INFO  [main] automationtests.AutomationScripts AutomationScripts.java49 - ******login_to_firebase automation script started***********
+20240217 12:47:26 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240217 12:47:27 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240217 12:47:32 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240217 12:47:32 INFO  [main] base.SFDCBasePage SFDCBasePage.java56 - object is moved userNavButton
+20240217 12:47:32 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - userNavButtonbutton is clicked
+20240217 12:47:32 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - logoutbutton is clicked
+20240217 12:47:32 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 12:47:32 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 12:47:32 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 12:47:33 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java79 - ......test excecution ended........
+20240217 12:55:03 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java73 - ...........test excecution started.........
+20240217 12:55:03 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 12:55:05 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 12:55:05 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 12:55:06 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 12:55:06 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case4......test execution started.....
+20240217 12:55:06 INFO  [main] automationtests.AutomationScripts AutomationScripts.java69 - ******login_to_firebase automation script started***********
+20240217 12:55:06 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 12:55:06 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 12:55:06 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 12:55:06 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java79 - ......test excecution ended........
+20240217 13:18:25 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java73 - ...........test excecution started.........
+20240217 13:18:26 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 13:18:27 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 13:18:28 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 13:18:28 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 13:18:28 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case4......test execution started.....
+20240217 13:18:28 INFO  [main] automationtests.AutomationScripts AutomationScripts.java69 - ******login_to_firebase automation script started***********
+20240217 13:18:29 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - forgot_password_linkbutton is clicked
+20240217 13:18:29 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in un textbox
+20240217 13:18:30 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - continuebutton is clicked
+20240217 13:18:30 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 13:18:30 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 13:18:30 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 13:18:30 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java79 - ......test excecution ended........
+20240217 13:18:50 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java73 - ...........test excecution started.........
+20240217 13:18:50 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 13:18:52 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 13:18:52 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 13:18:53 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 13:18:53 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case1......test execution started.....
+20240217 13:18:53 INFO  [main] automationtests.AutomationScripts AutomationScripts.java35 - ******login_to_firebase automation script started***********
+20240217 13:18:54 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240217 13:18:55 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240217 13:18:55 INFO  [main] base.SFDCBasePage SFDCBasePage.java51 - text is extracted from error
+20240217 13:18:55 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 13:18:55 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 13:18:55 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 13:18:55 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 13:18:56 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 13:18:56 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 13:19:00 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 13:19:00 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case3......test execution started.....
+20240217 13:19:00 INFO  [main] automationtests.AutomationScripts AutomationScripts.java49 - ******login_to_firebase automation script started***********
+20240217 13:19:00 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240217 13:19:01 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240217 13:19:06 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240217 13:19:06 INFO  [main] base.SFDCBasePage SFDCBasePage.java56 - object is moved userNavButton
+20240217 13:19:06 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - userNavButtonbutton is clicked
+20240217 13:19:07 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - logoutbutton is clicked
+20240217 13:19:07 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 13:19:07 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 13:19:07 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 13:19:07 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 13:19:08 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 13:19:08 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 13:19:08 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 13:19:08 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case4......test execution started.....
+20240217 13:19:08 INFO  [main] automationtests.AutomationScripts AutomationScripts.java69 - ******login_to_firebase automation script started***********
+20240217 13:19:09 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - forgot_password_linkbutton is clicked
+20240217 13:19:09 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in un textbox
+20240217 13:19:11 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - continuebutton is clicked
+20240217 13:19:11 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 13:19:11 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 13:19:11 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 13:19:11 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 13:19:12 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 13:19:12 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 13:19:13 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 13:19:13 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - succesLogin......test execution started.....
+20240217 13:19:13 INFO  [main] automationtests.AutomationScripts AutomationScripts.java19 - ******login_to_firebase automation script started***********
+20240217 13:19:14 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240217 13:19:14 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240217 13:19:19 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240217 13:19:19 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 13:19:19 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 13:19:19 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 13:19:19 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java79 - ......test excecution ended........
+20240217 13:38:32 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java73 - ...........test excecution started.........
+20240217 13:38:32 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 13:38:34 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 13:38:35 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 13:38:35 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 13:38:35 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case4......test execution started.....
+20240217 13:38:35 INFO  [main] automationtests.AutomationScripts AutomationScripts.java69 - ******login_to_firebase automation script started***********
+20240217 13:38:35 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - forgot_password_linkbutton is clicked
+20240217 13:38:36 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in un textbox
+20240217 13:38:37 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - continuebutton is clicked
+20240217 13:38:37 INFO  [main] base.SFDCBasePage SFDCBasePage.java51 - text is extracted from header
+20240217 13:38:37 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 13:38:37 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 13:38:37 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 13:38:37 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java79 - ......test excecution ended........
+20240217 18:33:10 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java73 - ...........test excecution started.........
+20240217 18:33:10 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 18:33:11 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 18:33:12 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 18:33:12 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 18:33:12 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case1......test execution started.....
+20240217 18:33:12 INFO  [main] automationtests.AutomationScripts AutomationScripts.java35 - ******login_to_firebase automation script started***********
+20240217 18:33:13 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240217 18:33:13 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240217 18:33:13 INFO  [main] base.SFDCBasePage SFDCBasePage.java51 - text is extracted from error
+20240217 18:33:13 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 18:33:13 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 18:33:13 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 18:33:13 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 18:33:14 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 18:33:14 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 18:33:15 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 18:33:15 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case3......test execution started.....
+20240217 18:33:15 INFO  [main] automationtests.AutomationScripts AutomationScripts.java49 - ******login_to_firebase automation script started***********
+20240217 18:33:15 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240217 18:33:16 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240217 18:33:21 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240217 18:33:21 INFO  [main] base.SFDCBasePage SFDCBasePage.java56 - object is moved userNavButton
+20240217 18:33:21 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - userNavButtonbutton is clicked
+20240217 18:33:21 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - logoutbutton is clicked
+20240217 18:33:21 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 18:33:21 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 18:33:21 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 18:33:21 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 18:33:22 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 18:33:22 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 18:33:23 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 18:33:23 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case4......test execution started.....
+20240217 18:33:23 INFO  [main] automationtests.AutomationScripts AutomationScripts.java69 - ******login_to_firebase automation script started***********
+20240217 18:33:23 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - forgot_password_linkbutton is clicked
+20240217 18:33:24 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in un textbox
+20240217 18:33:24 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - continuebutton is clicked
+20240217 18:33:24 INFO  [main] base.SFDCBasePage SFDCBasePage.java51 - text is extracted from header
+20240217 18:33:24 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 18:33:24 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 18:33:24 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 18:33:24 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 18:33:25 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 18:33:25 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 18:33:26 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 18:33:26 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case4B......test execution started.....
+20240217 18:33:26 INFO  [main] automationtests.AutomationScripts AutomationScripts.java85 - ******login_to_firebase automation script started***********
+20240217 18:33:26 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240217 18:33:26 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 18:33:26 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 18:33:26 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 18:33:26 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 18:33:27 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 18:33:27 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 18:33:28 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 18:33:28 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - succesLogin......test execution started.....
+20240217 18:33:28 INFO  [main] automationtests.AutomationScripts AutomationScripts.java19 - ******login_to_firebase automation script started***********
+20240217 18:33:28 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240217 18:33:29 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240217 18:33:31 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240217 18:33:31 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 18:33:31 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 18:33:31 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 18:33:31 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java79 - ......test excecution ended........
+20240217 22:05:55 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java73 - ...........test excecution started.........
+20240217 22:05:55 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 22:05:57 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 22:05:57 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 22:05:58 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 22:05:58 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case1......test execution started.....
+20240217 22:05:58 INFO  [main] automationtests.AutomationScripts AutomationScripts.java35 - ******login_to_firebase automation script started***********
+20240217 22:05:58 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240217 22:05:59 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240217 22:05:59 INFO  [main] base.SFDCBasePage SFDCBasePage.java51 - text is extracted from error
+20240217 22:05:59 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 22:05:59 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 22:05:59 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 22:05:59 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 22:06:00 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 22:06:00 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 22:06:01 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 22:06:01 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case3......test execution started.....
+20240217 22:06:01 INFO  [main] automationtests.AutomationScripts AutomationScripts.java49 - ******login_to_firebase automation script started***********
+20240217 22:06:01 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240217 22:06:01 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240217 22:06:10 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240217 22:06:10 INFO  [main] base.SFDCBasePage SFDCBasePage.java56 - object is moved userNavButton
+20240217 22:06:10 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - userNavButtonbutton is clicked
+20240217 22:06:11 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - logoutbutton is clicked
+20240217 22:06:11 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 22:06:11 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 22:06:11 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 22:06:11 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 22:06:12 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 22:06:12 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 22:06:13 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 22:06:13 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case4......test execution started.....
+20240217 22:06:13 INFO  [main] automationtests.AutomationScripts AutomationScripts.java69 - ******login_to_firebase automation script started***********
+20240217 22:06:13 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - forgot_password_linkbutton is clicked
+20240217 22:06:14 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in un textbox
+20240217 22:06:15 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - continuebutton is clicked
+20240217 22:06:15 INFO  [main] base.SFDCBasePage SFDCBasePage.java51 - text is extracted from header
+20240217 22:06:15 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 22:06:15 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 22:06:15 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 22:06:15 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 22:06:15 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 22:06:16 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 22:06:16 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 22:06:16 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case4B......test execution started.....
+20240217 22:06:16 INFO  [main] automationtests.AutomationScripts AutomationScripts.java85 - ******login_to_firebase automation script started***********
+20240217 22:06:16 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240217 22:06:16 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 22:06:17 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 22:06:17 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 22:06:17 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 22:06:18 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 22:06:18 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 22:06:18 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 22:06:18 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - succesLogin......test execution started.....
+20240217 22:06:18 INFO  [main] automationtests.AutomationScripts AutomationScripts.java19 - ******login_to_firebase automation script started***********
+20240217 22:06:18 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240217 22:06:19 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240217 22:06:25 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240217 22:06:25 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 22:06:25 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 22:06:25 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 22:06:25 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java79 - ......test excecution ended........
+20240217 22:09:49 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java73 - ...........test excecution started.........
+20240217 22:09:49 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240217 22:09:51 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240217 22:09:51 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240217 22:09:51 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240217 22:09:51 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case3......test execution started.....
+20240217 22:09:52 INFO  [main] automationtests.AutomationScripts AutomationScripts.java49 - ******login_to_firebase automation script started***********
+20240217 22:09:52 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240217 22:09:52 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240217 22:10:00 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240217 22:10:00 INFO  [main] base.SFDCBasePage SFDCBasePage.java56 - object is moved userNavButton
+20240217 22:10:00 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - userNavButtonbutton is clicked
+20240217 22:10:01 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - logoutbutton is clicked
+20240217 22:10:01 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240217 22:10:02 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240217 22:10:02 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240217 22:10:02 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java79 - ......test excecution ended........
+20240219 17:39:50 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java73 - ...........test excecution started.........
+20240219 17:39:50 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240219 17:39:52 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240219 17:39:52 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240219 17:39:53 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240219 17:39:53 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case1......test execution started.....
+20240219 17:39:53 INFO  [main] automationtests.AutomationScripts AutomationScripts.java35 - ******login_to_firebase automation script started***********
+20240219 17:39:53 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240219 17:39:54 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240219 17:39:54 INFO  [main] base.SFDCBasePage SFDCBasePage.java51 - text is extracted from error
+20240219 17:39:54 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240219 17:39:54 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240219 17:39:54 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240219 17:39:54 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240219 17:39:55 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240219 17:39:55 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240219 17:39:56 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240219 17:39:56 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case3......test execution started.....
+20240219 17:39:56 INFO  [main] automationtests.AutomationScripts AutomationScripts.java49 - ******login_to_firebase automation script started***********
+20240219 17:39:56 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240219 17:39:56 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240219 17:39:59 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240219 17:39:59 INFO  [main] base.SFDCBasePage SFDCBasePage.java56 - object is moved userNavButton
+20240219 17:40:01 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - userNavButtonbutton is clicked
+20240219 17:40:02 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - logoutbutton is clicked
+20240219 17:40:02 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240219 17:40:02 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240219 17:40:02 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240219 17:40:02 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240219 17:40:03 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240219 17:40:03 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240219 17:40:03 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240219 17:40:03 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case4......test execution started.....
+20240219 17:40:03 INFO  [main] automationtests.AutomationScripts AutomationScripts.java69 - ******login_to_firebase automation script started***********
+20240219 17:40:04 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - forgot_password_linkbutton is clicked
+20240219 17:40:04 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in un textbox
+20240219 17:40:05 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - continuebutton is clicked
+20240219 17:40:05 INFO  [main] base.SFDCBasePage SFDCBasePage.java51 - text is extracted from header
+20240219 17:40:05 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240219 17:40:05 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240219 17:40:05 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240219 17:40:05 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240219 17:40:06 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240219 17:40:06 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240219 17:40:06 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240219 17:40:06 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case4B......test execution started.....
+20240219 17:40:06 INFO  [main] automationtests.AutomationScripts AutomationScripts.java85 - ******login_to_firebase automation script started***********
+20240219 17:40:07 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240219 17:40:07 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240219 17:40:07 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240219 17:40:07 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240219 17:40:07 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240219 17:40:08 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240219 17:40:08 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240219 17:40:08 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240219 17:40:08 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - succesLogin......test execution started.....
+20240219 17:40:08 INFO  [main] automationtests.AutomationScripts AutomationScripts.java19 - ******login_to_firebase automation script started***********
+20240219 17:40:08 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240219 17:40:09 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240219 17:40:11 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240219 17:40:11 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240219 17:40:11 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240219 17:40:11 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240219 17:40:11 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java79 - ......test excecution ended........
+20240219 17:45:24 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java73 - ...........test excecution started.........
+20240219 17:45:24 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240219 17:45:25 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240219 17:45:25 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240219 17:45:26 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240219 17:45:26 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case1......test execution started.....
+20240219 17:45:26 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java35 - ******login_to_firebase automation script started***********
+20240219 17:45:26 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240219 17:45:27 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240219 17:45:27 INFO  [main] base.SFDCBasePage SFDCBasePage.java51 - text is extracted from error
+20240219 17:45:27 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240219 17:45:27 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240219 17:45:27 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240219 17:45:27 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240219 17:45:28 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240219 17:45:28 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240219 17:45:28 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240219 17:45:28 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case3......test execution started.....
+20240219 17:45:28 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java49 - ******login_to_firebase automation script started***********
+20240219 17:45:29 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240219 17:45:29 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240219 17:45:31 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240219 17:45:31 INFO  [main] base.SFDCBasePage SFDCBasePage.java56 - object is moved userNavButton
+20240219 17:45:33 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - userNavButtonbutton is clicked
+20240219 17:45:33 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - logoutbutton is clicked
+20240219 17:45:33 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240219 17:45:33 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240219 17:45:33 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240219 17:45:33 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240219 17:45:34 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240219 17:45:34 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240219 17:45:35 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240219 17:45:35 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case4......test execution started.....
+20240219 17:45:35 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java69 - ******login_to_firebase automation script started***********
+20240219 17:45:35 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - forgot_password_linkbutton is clicked
+20240219 17:45:35 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in un textbox
+20240219 17:45:36 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - continuebutton is clicked
+20240219 17:45:36 INFO  [main] base.SFDCBasePage SFDCBasePage.java51 - text is extracted from header
+20240219 17:45:36 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240219 17:45:36 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240219 17:45:36 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240219 17:45:36 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240219 17:45:37 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240219 17:45:37 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240219 17:45:38 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240219 17:45:38 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - case4B......test execution started.....
+20240219 17:45:38 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java85 - ******login_to_firebase automation script started***********
+20240219 17:45:38 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240219 17:45:38 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240219 17:45:38 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240219 17:45:38 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240219 17:45:38 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java40 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240219 17:45:39 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java59 - browser instance chrome created
+20240219 17:45:39 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java62 - window is maximized
+20240219 17:45:40 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java98 - https://login.salesforce.com/is entered
+20240219 17:45:40 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java24 - succesLogin......test execution started.....
+20240219 17:45:40 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java19 - ******login_to_firebase automation script started***********
+20240219 17:45:40 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240219 17:45:40 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240219 17:45:42 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240219 17:45:43 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java31 - ........test excecution completed with success
+20240219 17:45:43 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java104 - browser instance closed
+20240219 17:45:43 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java50 - ******tearDownAfterTestMethod executed***********
+20240219 17:45:43 INFO  [main] utilities.FirebaseListenerutilityt FirebaseListenerutilityt.java79 - ......test excecution ended........
+20240220 09:59:30 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java73 - Default test has started....................
+20240220 09:59:30 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 09:59:33 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240220 09:59:33 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240220 09:59:33 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240220 09:59:33 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - succesLogin.......test execution started........
+20240220 09:59:33 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java21 - ******login_to_firebase automation script started***********
+20240220 09:59:34 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240220 09:59:35 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240220 09:59:37 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240220 09:59:37 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - succesLogin.......test execution completed with success........
+20240220 09:59:37 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240220 09:59:37 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240220 09:59:37 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java81 - Default test has ended....................
+20240220 10:00:30 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java73 - Default test has started....................
+20240220 10:00:30 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 10:00:32 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240220 10:00:33 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240220 10:00:33 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240220 10:00:33 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - case1.......test execution started........
+20240220 10:00:33 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java37 - ******login_to_firebase automation script started***********
+20240220 10:00:34 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240220 10:00:35 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240220 10:00:35 INFO  [main] base.SFDCBasePage SFDCBasePage.java51 - text is extracted from error
+20240220 10:00:35 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - case1.......test execution completed with success........
+20240220 10:00:35 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240220 10:00:35 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240220 10:00:35 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 10:00:36 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240220 10:00:36 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240220 10:00:37 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240220 10:00:37 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - case3.......test execution started........
+20240220 10:00:37 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java51 - ******login_to_firebase automation script started***********
+20240220 10:00:38 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240220 10:00:38 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240220 10:00:41 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240220 10:00:41 INFO  [main] base.SFDCBasePage SFDCBasePage.java56 - object is moved userNavButton
+20240220 10:00:43 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - userNavButtonbutton is clicked
+20240220 10:00:43 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - logoutbutton is clicked
+20240220 10:00:43 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - case3.......test execution completed with success........
+20240220 10:00:43 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240220 10:00:43 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240220 10:00:43 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 10:00:44 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240220 10:00:44 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240220 10:00:45 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240220 10:00:45 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - case4.......test execution started........
+20240220 10:00:45 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java71 - ******login_to_firebase automation script started***********
+20240220 10:00:45 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - forgot_password_linkbutton is clicked
+20240220 10:00:45 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in un textbox
+20240220 10:00:46 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - continuebutton is clicked
+20240220 10:00:46 INFO  [main] base.SFDCBasePage SFDCBasePage.java51 - text is extracted from header
+20240220 10:00:46 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - case4.......test execution completed with success........
+20240220 10:00:46 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240220 10:00:46 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240220 10:00:46 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 10:00:47 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240220 10:00:47 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240220 10:00:48 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240220 10:00:48 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - case4B.......test execution started........
+20240220 10:00:48 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java87 - ******login_to_firebase automation script started***********
+20240220 10:00:48 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240220 10:00:48 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - case4B.......test execution completed with success........
+20240220 10:00:48 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240220 10:00:48 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240220 10:00:48 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 10:00:49 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240220 10:00:49 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240220 10:00:50 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240220 10:00:50 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - succesLogin.......test execution started........
+20240220 10:00:50 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java21 - ******login_to_firebase automation script started***********
+20240220 10:00:50 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240220 10:00:51 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240220 10:00:55 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240220 10:00:55 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - succesLogin.......test execution completed with success........
+20240220 10:00:55 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240220 10:00:55 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240220 10:00:55 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java81 - Default test has ended....................
+20240220 10:42:21 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java73 - Default test has started....................
+20240220 10:42:21 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 10:42:22 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240220 10:42:23 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240220 10:42:23 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240220 10:42:23 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - case1.......test execution started........
+20240220 10:42:23 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java37 - ******login_to_firebase automation script started***********
+20240220 10:42:24 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240220 10:42:25 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240220 10:42:25 INFO  [main] base.SFDCBasePage SFDCBasePage.java51 - text is extracted from error
+20240220 10:42:25 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - case1.......test execution completed with success........
+20240220 10:42:25 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240220 10:42:25 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240220 10:42:25 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 10:42:26 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240220 10:42:26 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240220 10:42:27 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240220 10:42:27 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - case3.......test execution started........
+20240220 10:42:27 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java51 - ******login_to_firebase automation script started***********
+20240220 10:42:28 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240220 10:42:28 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240220 10:42:33 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240220 10:42:33 INFO  [main] base.SFDCBasePage SFDCBasePage.java56 - object is moved userNavButton
+20240220 10:42:33 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - userNavButtonbutton is clicked
+20240220 10:42:34 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - logoutbutton is clicked
+20240220 10:42:34 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - case3.......test execution completed with success........
+20240220 10:42:34 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240220 10:42:34 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240220 10:42:34 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 10:42:35 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240220 10:42:35 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240220 10:42:35 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240220 10:42:35 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - case4.......test execution started........
+20240220 10:42:35 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java71 - ******login_to_firebase automation script started***********
+20240220 10:42:36 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - forgot_password_linkbutton is clicked
+20240220 10:42:36 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in un textbox
+20240220 10:42:37 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - continuebutton is clicked
+20240220 10:42:37 INFO  [main] base.SFDCBasePage SFDCBasePage.java51 - text is extracted from header
+20240220 10:42:37 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - case4.......test execution completed with success........
+20240220 10:42:37 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240220 10:42:37 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240220 10:42:37 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 10:42:38 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240220 10:42:38 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240220 10:42:39 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240220 10:42:39 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - case4B.......test execution started........
+20240220 10:42:39 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java87 - ******login_to_firebase automation script started***********
+20240220 10:42:39 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240220 10:42:39 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - case4B.......test execution completed with success........
+20240220 10:42:39 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240220 10:42:39 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240220 10:42:39 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 10:42:40 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240220 10:42:40 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240220 10:42:41 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240220 10:42:41 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - succesLogin.......test execution started........
+20240220 10:42:41 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java21 - ******login_to_firebase automation script started***********
+20240220 10:42:41 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240220 10:42:42 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240220 10:42:51 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240220 10:42:51 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - succesLogin.......test execution completed with success........
+20240220 10:42:51 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240220 10:42:51 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240220 10:42:51 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java81 - Default test has ended....................
+20240220 18:04:55 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java73 - Default test has started....................
+20240220 18:04:55 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 18:04:57 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240220 18:04:57 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240220 18:04:58 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240220 18:04:58 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - case1.......test execution started........
+20240220 18:04:58 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java37 - ******login_to_firebase automation script started***********
+20240220 18:04:59 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240220 18:05:00 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240220 18:05:00 INFO  [main] base.SFDCBasePage SFDCBasePage.java51 - text is extracted from error
+20240220 18:05:00 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - case1.......test execution completed with success........
+20240220 18:05:00 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240220 18:05:00 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240220 18:05:00 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 18:05:01 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240220 18:05:01 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240220 18:05:01 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240220 18:05:01 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - case3.......test execution started........
+20240220 18:05:01 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java51 - ******login_to_firebase automation script started***********
+20240220 18:05:02 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240220 18:05:03 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240220 18:05:07 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240220 18:05:07 INFO  [main] base.SFDCBasePage SFDCBasePage.java56 - object is moved userNavButton
+20240220 18:05:08 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - userNavButtonbutton is clicked
+20240220 18:05:08 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - logoutbutton is clicked
+20240220 18:05:08 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - case3.......test execution completed with success........
+20240220 18:05:08 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240220 18:05:08 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240220 18:05:08 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 18:05:09 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240220 18:05:09 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240220 18:05:10 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240220 18:05:10 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - case4.......test execution started........
+20240220 18:05:10 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java71 - ******login_to_firebase automation script started***********
+20240220 18:05:10 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - forgot_password_linkbutton is clicked
+20240220 18:05:11 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in un textbox
+20240220 18:05:11 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - continuebutton is clicked
+20240220 18:05:11 INFO  [main] base.SFDCBasePage SFDCBasePage.java51 - text is extracted from header
+20240220 18:05:11 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - case4.......test execution completed with success........
+20240220 18:05:12 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240220 18:05:12 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240220 18:05:12 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 18:05:12 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240220 18:05:13 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240220 18:05:13 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240220 18:05:13 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - case4B.......test execution started........
+20240220 18:05:13 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java87 - ******login_to_firebase automation script started***********
+20240220 18:05:13 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240220 18:05:13 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - case4B.......test execution completed with success........
+20240220 18:05:14 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240220 18:05:14 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240220 18:05:14 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 18:05:15 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240220 18:05:15 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240220 18:05:15 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240220 18:05:15 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - succesLogin.......test execution started........
+20240220 18:05:15 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java21 - ******login_to_firebase automation script started***********
+20240220 18:05:16 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240220 18:05:16 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240220 18:05:19 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240220 18:05:19 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - succesLogin.......test execution completed with success........
+20240220 18:05:19 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240220 18:05:19 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240220 18:05:19 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java81 - Default test has ended....................
+20240221 09:48:03 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java73 - Default test has started....................
+20240221 09:48:03 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 09:48:06 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240221 09:48:06 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240221 09:48:06 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240221 09:48:06 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - case1.......test execution started........
+20240221 09:48:06 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java37 - ******login_to_firebase automation script started***********
+20240221 09:48:07 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240221 09:48:08 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240221 09:48:08 INFO  [main] base.SFDCBasePage SFDCBasePage.java51 - text is extracted from error
+20240221 09:48:08 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - case1.......test execution completed with success........
+20240221 09:48:09 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240221 09:48:09 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240221 09:48:09 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 09:48:10 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240221 09:48:10 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240221 09:48:10 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240221 09:48:10 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - case3.......test execution started........
+20240221 09:48:10 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java51 - ******login_to_firebase automation script started***********
+20240221 09:48:11 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240221 09:48:12 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240221 09:48:14 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240221 09:48:14 INFO  [main] base.SFDCBasePage SFDCBasePage.java56 - object is moved userNavButton
+20240221 09:48:16 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - userNavButtonbutton is clicked
+20240221 09:48:17 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - logoutbutton is clicked
+20240221 09:48:17 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - case3.......test execution completed with success........
+20240221 09:48:17 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240221 09:48:17 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240221 09:48:17 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 09:48:18 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240221 09:48:18 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240221 09:48:19 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240221 09:48:19 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - case4.......test execution started........
+20240221 09:48:19 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java71 - ******login_to_firebase automation script started***********
+20240221 09:48:19 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - forgot_password_linkbutton is clicked
+20240221 09:48:19 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in un textbox
+20240221 09:48:20 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - continuebutton is clicked
+20240221 09:48:20 INFO  [main] base.SFDCBasePage SFDCBasePage.java51 - text is extracted from header
+20240221 09:48:20 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - case4.......test execution completed with success........
+20240221 09:48:20 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240221 09:48:20 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240221 09:48:20 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 09:48:21 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240221 09:48:21 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240221 09:48:22 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240221 09:48:22 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - case4B.......test execution started........
+20240221 09:48:22 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java87 - ******login_to_firebase automation script started***********
+20240221 09:48:22 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240221 09:48:22 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - case4B.......test execution completed with success........
+20240221 09:48:22 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240221 09:48:22 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240221 09:48:22 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java41 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 09:48:23 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java60 - browser instance chrome created
+20240221 09:48:23 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java63 - window is maximized
+20240221 09:48:24 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java99 - https://login.salesforce.com/is entered
+20240221 09:48:24 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java24 - succesLogin.......test execution started........
+20240221 09:48:24 INFO  [main] automationtests.SFDCLoginAutomationScripts SFDCLoginAutomationScripts.java21 - ******login_to_firebase automation script started***********
+20240221 09:48:24 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in Username textbox textbox
+20240221 09:48:25 INFO  [main] base.SFDCBasePage SFDCBasePage.java29 - data is entered in password field textbox
+20240221 09:48:29 INFO  [main] base.SFDCBasePage SFDCBasePage.java40 - login buttonbutton is clicked
+20240221 09:48:29 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java31 - succesLogin.......test execution completed with success........
+20240221 09:48:30 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java105 - browser instance closed
+20240221 09:48:30 INFO  [main] base.SFDCBaseTest SFDCBaseTest.java51 - ******tearDownAfterTestMethod executed***********
+20240221 09:48:30 INFO  [main] utilities.FirebaseListenerUtility FirebaseListenerUtility.java81 - Default test has ended....................

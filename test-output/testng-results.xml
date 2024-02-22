@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-21T09:48:03 PST" name="Default suite" finished-at="2024-02-21T09:48:30 PST" duration-ms="26577">
+    <groups>
+    </groups>
+    <test started-at="2024-02-21T09:48:03 PST" name="Default test" finished-at="2024-02-21T09:48:30 PST" duration-ms="26577">
+      <class name="com.salesforce.automationtests.SFDCLoginAutomationScripts">
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.salesforce.automationtests.SFDCLoginAutomationScripts@5066d65f]" started-at="2024-02-21T09:48:03 PST" name="setUpBeforeMethod" finished-at="2024-02-21T09:48:06 PST" duration-ms="3305" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="case1()[pri:0, instance:com.salesforce.automationtests.SFDCLoginAutomationScripts@5066d65f]" started-at="2024-02-21T09:48:06 PST" name="case1" finished-at="2024-02-21T09:48:08 PST" duration-ms="1968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case1 -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.salesforce.automationtests.SFDCLoginAutomationScripts@5066d65f]" started-at="2024-02-21T09:48:08 PST" name="tearDownAfterTestMethod" finished-at="2024-02-21T09:48:09 PST" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.salesforce.automationtests.SFDCLoginAutomationScripts@5066d65f]" started-at="2024-02-21T09:48:09 PST" name="setUpBeforeMethod" finished-at="2024-02-21T09:48:10 PST" duration-ms="1861" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="case3()[pri:0, instance:com.salesforce.automationtests.SFDCLoginAutomationScripts@5066d65f]" started-at="2024-02-21T09:48:10 PST" name="case3" finished-at="2024-02-21T09:48:17 PST" duration-ms="6056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case3 -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.salesforce.automationtests.SFDCLoginAutomationScripts@5066d65f]" started-at="2024-02-21T09:48:17 PST" name="tearDownAfterTestMethod" finished-at="2024-02-21T09:48:17 PST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.salesforce.automationtests.SFDCLoginAutomationScripts@5066d65f]" started-at="2024-02-21T09:48:17 PST" name="setUpBeforeMethod" finished-at="2024-02-21T09:48:19 PST" duration-ms="1872" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="case4()[pri:0, instance:com.salesforce.automationtests.SFDCLoginAutomationScripts@5066d65f]" started-at="2024-02-21T09:48:19 PST" name="case4" finished-at="2024-02-21T09:48:20 PST" duration-ms="1443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case4 -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.salesforce.automationtests.SFDCLoginAutomationScripts@5066d65f]" started-at="2024-02-21T09:48:20 PST" name="tearDownAfterTestMethod" finished-at="2024-02-21T09:48:20 PST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.salesforce.automationtests.SFDCLoginAutomationScripts@5066d65f]" started-at="2024-02-21T09:48:20 PST" name="setUpBeforeMethod" finished-at="2024-02-21T09:48:22 PST" duration-ms="1651" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="case4B()[pri:0, instance:com.salesforce.automationtests.SFDCLoginAutomationScripts@5066d65f]" started-at="2024-02-21T09:48:22 PST" name="case4B" finished-at="2024-02-21T09:48:22 PST" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case4B -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.salesforce.automationtests.SFDCLoginAutomationScripts@5066d65f]" started-at="2024-02-21T09:48:22 PST" name="tearDownAfterTestMethod" finished-at="2024-02-21T09:48:22 PST" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.salesforce.automationtests.SFDCLoginAutomationScripts@5066d65f]" started-at="2024-02-21T09:48:22 PST" name="setUpBeforeMethod" finished-at="2024-02-21T09:48:24 PST" duration-ms="1611" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="succesLogin()[pri:0, instance:com.salesforce.automationtests.SFDCLoginAutomationScripts@5066d65f]" started-at="2024-02-21T09:48:24 PST" name="succesLogin" finished-at="2024-02-21T09:48:29 PST" duration-ms="5604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- succesLogin -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.salesforce.automationtests.SFDCLoginAutomationScripts@5066d65f]" started-at="2024-02-21T09:48:29 PST" name="tearDownAfterTestMethod" finished-at="2024-02-21T09:48:30 PST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.salesforce.automationtests.SFDCLoginAutomationScripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
